@@ -22,7 +22,6 @@
         "Fast-Food-Ketten",
         "Süßigkeiten",
         "Eissorten",
-        "Käsesorten",
         "Brotsorten",
         "Wurstsorten",
         "Alkoholsorten",
@@ -85,7 +84,7 @@
         "Museen"
       ],
       "Spiele & Freizeit": [
-        "Sportarten",
+        "Sportarten mit Netz",
         "Olympische Sportarten",
         "Winter-Sportarten",
         "Extremsportarten",
@@ -97,7 +96,7 @@
       ],
       "Mode & Konsum": [
         "Modemarken",
-        "Kleidung",
+        "Kleidungsstücke",
         "Schuhmarken",
         "Luxusmarken",
         "Parfümmarken",
@@ -111,7 +110,9 @@
       ],
       "Wissenschaft & Bildung": [
         "Schulutensilien",
-        "Musikinstrumente"
+        "Musikinstrumente",
+        "Schulfächer",
+        "Studiengänge"
       ]
     }
   },
@@ -121,24 +122,22 @@
     "themes": {
       "fragen": [
         "Was war dein peinlichstes Erlebnis?",
-        "Wen aus der Runde würdest du daten?",
-        "Was war dein letzter Suchverlauf?",
+        "Wen aus der Runde würdest du am ehesten daten?",
+        "Was war dein letztes Ergebnis im Suchverlauf?",
         "Würdest du lieber reich oder berühmt sein?",
         "Wer ist der attraktivste Mensch hier?",
         "Wann hast du zuletzt gelogen?",
-        "Was war dein schlimmster Kater?",
-        "Hast du schon mal jemanden gestalkt?",
-        "Hast du schon mal nackt gebadet?",
+        "Wann war dein schlimmster Kater?",
+        "Hast du schon mal jemanden IRL gestalkt?",
+        "Wo hast du schon mal nackt gebadet?",
         "Wen hast du zuletzt geküsst?",
         "Was würdest du tun, wenn du für einen Tag das andere Geschlecht wärst?",
-        "Was ist dein größtes Geheimnis?",
         "Würdest du mit jemandem aus dieser Runde schlafen?",
         "Hast du schon mal etwas geklaut?",
-        "Wann hattest du deinen ersten Kuss?",
+        "Wann und mit wem hattest du deinen ersten Kuss?",
         "Hast du schon mal einen Crush auf einen Lehrer oder eine Lehrerin gehabt?",
-        "Wie oft schaust du auf dein Handy?",
+        "Wie hoch ist deine Bildschirmzeit?",
         "Hast du einen geheimen Instagram-Account?",
-        "Wen blockierst du in deinem Handy?",
         "Was ist dein Lieblingskörperteil an dir selbst?",
         "Was findest du bei anderen richtig attraktiv?",
         "Was war dein schlimmster Fail beim Flirten?",
@@ -146,10 +145,10 @@
         "Was war dein letzter Albtraum?",
         "Wurdest du schon mal beim Sex erwischt?",
         "Was ist dein guilty pleasure?",
-        "Welchen Promi würdest du gerne mal treffen?",
+        "Welchen Promi würdest du gerne mal daten?",
         "Wie oft hast du schon einen Ex gestalkt?",
         "Was würdest du mit einer Million Euro tun?",
-        "Welches Geheimnis weiß kaum jemand über dich?",
+        "Welche Eigenschaft weiß kaum jemand über dich?",
         "Was ist das dümmste, das du je getan hast?",
         "Hast du schon mal Drogen ausprobiert?",
         "Wie viele Menschen hast du bisher geküsst?",
@@ -181,7 +180,6 @@
         "Wer aus der Runde ist am ehesten ein guter Kuss?",
         "Hast du schon mal mit jemandem aus Mitleid geschrieben?",
         "Wie viele Chats ignorierst du gerade?",
-        "Wen vermisst du heimlich?",
         "Was würdest du gerne an dir ändern?",
         "Hast du schon mal jemanden betrogen?",
         "Wie viele Ex-Freund*innen hattest du?",
@@ -224,7 +222,63 @@
         "Was wäre dein Traumberuf – unabhängig von Geld?",
         "Wofür gibst du zu viel Geld aus?",
         "Was würdest du tun, wenn du plötzlich 10 Jahre älter wärst?",
-        "Was ist dir im Leben wirklich wichtig?"
+        "Was ist dir im Leben wirklich wichtig?",
+        "Was denkst du, denkt man über dich, wenn man dich zum ersten Mal sieht?",
+        "Was war der größte Vertrauensbruch, den du je erlebt hast?",
+        "Mit welcher Person hast du gerade den unangenehmsten Chatverlauf?",
+        "Was ist dein letzter Screenshot auf dem Handy?",
+        "Was würdest du sofort tun, wenn du wüsstest, es gäbe keine Konsequenzen?",
+        "Was ist deine peinlichste Kindheitserinnerung?",
+        "Wen aus deinem Leben würdest du am liebsten ghosten – wenn’s nicht auffallen würde?",
+        "Was ist dein krassester Mood-Killer bei anderen?",
+        "Was war der absurdeste Grund, warum du mal jemanden gedatet oder abgelehnt hast?",
+        "Was ist dein toxischstes Verhalten, das du (noch) nicht ablegst?",
+        "Wann hast du zuletzt etwas getan, nur um gemocht zu werden?",
+        "Was würdest du deinem letzten Crush heute gerne ehrlich sagen?",
+        "Welcher deiner Ex-Partner war rückblickend ein kompletter Fehlgriff – und warum?",
+        "Was würdest du löschen, wenn jemand heute ungefragt dein Handy durchschaut?",
+        "Wofür würdest du dich am meisten schämen, wenn es viral ginge?",
+        "Was war der schmerzhafteste Satz, den dir je jemand gesagt hat?",
+        "Was ist dein größtes „Was wäre wenn“-Gedankenkarussell?",
+        "Was denkst du manchmal – aber würdest es niemals laut sagen?",
+        "Was ist die eine Sache, die du nie zugeben würdest … außer vielleicht jetzt?",
+        "Welcher Moment hat dich nachhaltig verändert – aber du redest nie darüber?",
+        "Mach einer Person in der Runde ein ernst gemeintes Kompliment", 
+        "Zeig deinen Homescreen – ohne vorher aufzuräumen", 
+        "Sprich 30 Sekunden lang nur in Reimen", 
+        "Mach ein Selfie mit deiner peinlichsten Pose und zeig es rum", 
+        "Imitiere für 20 Sekunden eine bekannte Person – die Runde rät, wer es ist", 
+        "Lies den letzten Satz laut vor, den du jemandem geschrieben hast", 
+        "Flüster einer Person etwas ausgedacht Charmantes ins Ohr", 
+        "Erfinde eine absurde Ausrede, warum du heute zu spät zur Schule/Uni/Arbeit gekommen bist", 
+        "Such ein GIF, das deinen aktuellen Geisteszustand beschreibt, und zeig es", 
+        "Versuch jemandem in der Runde für 30 Sekunden überzeugend einen komplett nutzlosen Gegenstand zu verkaufen",
+        "Küsse die Person rechts von dir an eine beliebige Stelle", 
+        "Flüstere der Person links von dir etwas, das du sonst nie laut sagen würdest", 
+        "Lass dir von jemandem in der Runde die Augen verbinden und errate, wer dich am Arm berührt", 
+        "Setz dich auf den Schoß einer Person deiner Wahl – 30 Sekunden lang", 
+        "Halte für 15 Sekunden intensiven Blickkontakt mit jemandem deiner Wahl", 
+        "Verteile drei (ehrlich gemeinte) Komplimente – aber so, als würdest du flirten", 
+        "Tu so, als würdest du jemanden aus der Runde auf ein Date einladen – und zwar überzeugend", 
+        "Leg deinen Kopf 20 Sekunden auf die Schulter der Person, die du am sympathischsten findest", 
+        "Streiche jemandem für 10 Sekunden sanft über den Arm – ohne zu lachen", 
+        "Flirte für 30 Sekunden mit einer Person deiner Wahl – komplett übertrieben",
+        "Massier jemandem in der Runde für 30 Sekunden die Schultern", 
+        "Lehne dich ganz nah an jemanden deiner Wahl und sag ihm/ihr etwas Nettes – sehr langsam", 
+        "Berühre jemandem in der Runde spielerisch das Gesicht – so zärtlich wie möglich", 
+        "Schau der Person gegenüber tief in die Augen und sag: 'Du bist heiß' – komplett ernst", 
+        "Wähle zwei Personen, die sich deiner Meinung nach küssen sollten", 
+        "Tu so, als würdest du jemanden aus der Runde verführerisch anmachen – 15 Sekunden", 
+        "Sag der Person links von dir, was du am körperlich attraktivsten an ihr findest", 
+        "Lass dir von jemandem die Hand halten – mit Blickkontakt – für mindestens 30 Sekunden", 
+        "Flüstere einer Person deiner Wahl einen völlig harmlosen Satz – aber tu so, als wär’s ein dirty secret",
+        "Lege deine Hand für 30 Sekunden auf das Bein der Person rechts von dir – ohne wegzuschauen", 
+        "Lass dich von einer Person deiner Wahl umarmen – aber so intensiv wie möglich", 
+        "Lehn dich an eine Person deiner Wahl an und bleib so, bis die nächste Aufgabe vorbei ist", 
+        "Zeige einer Person in der Runde, wie du sie küssen würdest – mit deiner Hand als Demo", 
+        "Leg deinen Kopf in den Schoß einer Person deiner Wahl – eine Minute lang", 
+        "Berühre für 20 Sekunden den Hals einer Person – ohne zu lachen", 
+        "Lehne dich ganz nah an das Gesicht einer Person deiner Wahl – und bleib 10 Sekunden still"
       ]
     }
   },
@@ -262,7 +316,7 @@
       },
       {
         "optionA": "Eine Woche ohne Handy",
-        "optionB": "Eine Woche ohne Essen"
+        "optionB": "Eine Woche ohne gutes Essen"
       },
       {
         "optionA": "Alle Gedanken laut aussprechen müssen",
@@ -579,6 +633,70 @@
       {
         "optionA": "Deine Emotionen sind für alle sichtbar",
         "optionB": "Deine Lügen leuchten rot auf"
+      },
+      {
+        "optionA": "Einen Monat lang keinen Sex haben dürfen",
+        "optionB": "Einen Monat lang jeden Crush alles erzählen müssen"
+      },
+      {
+        "optionA": "Einmal mit deinem Crush knutschen – aber niemand darf es je erfahren",
+        "optionB": "Nie mit ihm/ihr knutschen – aber alle glauben, du hättest es"
+      },
+      {
+        "optionA": "Einen One-Night-Stand mit deinem Celebrity-Crush",
+        "optionB": "Eine Beziehung mit jemandem, den du nur okay findest"
+      },
+      {
+        "optionA": "Beim Küssen erwischt werden",
+        "optionB": "Beim Sexten erwischt werden"
+      },
+      {
+        "optionA": "Nie wieder flirten dürfen",
+        "optionB": "Alles, was du flirtest, wird öffentlich gepostet"
+      },
+      {
+        "optionA": "Einen Tag lang jeden Wunsch deines Dates erfüllen",
+        "optionB": "Einen Tag lang jeden Wunsch deiner Ex erfüllen müssen"
+      },
+      {
+        "optionA": "Deine letzten 10 Nachrichten öffentlich machen",
+        "optionB": "Nie wieder privat schreiben dürfen"
+      },
+      {
+        "optionA": "Dein Datingleben vor der ganzen Runde erklären müssen",
+        "optionB": "Nie wieder daten dürfen"
+      },
+      {
+        "optionA": "Mit deinem Crush übernachten – aber nichts darf passieren",
+        "optionB": "Mit deinem Ex küssen – aber niemand erfährt es"
+      },
+      {
+        "optionA": "Eine Woche lang jedes Flirtangebot annehmen",
+        "optionB": "Einen Monat lang jedes ablehnen"
+      },
+      {
+        "optionA": "Immer beim Flirten rot anlaufen",
+        "optionB": "Beim Flirten immer stottern"
+      },
+      {
+        "optionA": "Jedes Mal die Wahrheit sagen müssen, wenn jemand fragt 'Stehst du auf mich?'",
+        "optionB": "Nie wieder sagen dürfen, auf wen du stehst"
+      },
+      {
+        "optionA": "Einen Striptease vor jemandem deiner Wahl",
+        "optionB": "Eine intime Sprachnachricht an jemanden aus der Runde schicken"
+      },
+      {
+        "optionA": "Einen Crush aus deinem Umfeld anrufen und 'Ich mag dich' sagen",
+        "optionB": "Nie wieder Kontakt zu ihm/ihr haben"
+      },
+      {
+        "optionA": "Dein schlimmstes Flirt-Fail-Erlebnis nachspielen",
+        "optionB": "Deinen besten Flirt-Spruch live performen"
+      },
+      {
+        "optionA": "Jede*r in der Runde darf dir eine intime Frage stellen (du musst antworten)",
+        "optionB": "Du darfst eine intime Frage an jede*n stellen – aber sie dürfen lügen"
       }
     ]
   },
@@ -687,7 +805,28 @@
       "… nie was aus der Gruppe mitbekommen?",
       "… immer alles fotografieren – sogar das Essen?",
       "… bei jedem Gewinnspiel mitmachen?",
-      "… für 10 € was völlig Sinnloses kaufen?"
+      "… für 10 € was völlig Sinnloses kaufen?",
+      "… beim Schreiben aus Versehen ein Herz schickt – und es dann nicht erklären kann?",
+      "… aus Neugier im Chat ganz nach oben scrollt?",
+      "… aus Versehen jemandem ein Bild liked – von 2017?",
+      "… beim Flirten plötzlich super schüchtern wird?",
+      "… heimlich checkt, wer alles seine Story gesehen hat?",
+      "… immer die DMs löscht – nur für den Fall?",
+      "… mit der besten Antwort auf 'Was machst du gerade?' kommt?",
+      "… bei einem Crush den Namen falsch speichert – und es zu spät merkt?",
+      "… sich ins Outfit einer anderen Person 'verguckt' und es nachshoppt?",
+      "… ein altes Profilbild abspeichert – einfach so?",
+       "… schon mal jemanden extra lange umarmt – nur um zu spüren, ob es funkt?",
+      "… sich nach einem Like durch das komplette Insta-Profil geklickt hat?",
+      "… einen Crush hatte und es bis heute niemand weiß?",
+      "… sich ein Szenario mit jemandem aus der Runde vorgestellt hat?",
+      "… beim Feiern jemanden aus der Runde fast geküsst hätte – aber’s nicht getan hat?",
+      "… nachts einen alten Chat öffnet – nur um nochmal zu lesen, was mal war?",
+      "… schon mal absichtlich zu jemandem rübergerutscht ist – unter dem Vorwand, es sei eng?",
+      "… sich ein Codewort überlegt hat, um über jemanden zu reden, ohne dass es auffällt?",
+      "… bei einer Nachricht extra langsam antwortet – um interessant zu wirken?",
+      "… sich beim Schreiben denkt: 'Das ist jetzt zu viel' – und es dann trotzdem schickt?"
+      
     ]
   },
   "fakeoderfakt": {
@@ -2030,7 +2169,7 @@
       },
       {
         "name": "Tim Mälzer",
-        "description": "Fernsehkoch"
+        "description": "Koch"
       },
       {
         "name": "Mark Forster",
@@ -2091,6 +2230,146 @@
       {
         "name": "Thomas Gottschalk",
         "description": "Fernsehmoderator"
+      },
+            {
+        "name": "Barbara Schöneberger",
+        "description": "Moderatorin und Entertainerin"
+      },
+      {
+        "name": "Rezo",
+        "description": "YouTuber und politischer Influencer"
+      },
+      {
+        "name": "Angela Merkel",
+        "description": "Ehemalige Bundeskanzlerin"
+      },
+      {
+        "name": "Elon Musk",
+        "description": "Unternehmer und CEO von Tesla und SpaceX"
+      },
+      {
+        "name": "Heidi Klum",
+        "description": "Model und TV-Persönlichkeit"
+      },
+      {
+        "name": "Harry Potter",
+        "description": "Fiktive Figur aus der gleichnamigen Buchreihe"
+      },
+      {
+        "name": "Lena Meyer-Landrut",
+        "description": "Sängerin und ESC-Gewinnerin"
+      },
+      {
+        "name": "Pamela Reif",
+        "description": "Fitness-Influencerin"
+      },
+      {
+        "name": "Robert Habeck",
+        "description": "Politiker und Vizekanzler"
+      },
+      {
+        "name": "Bastian Schweinsteiger",
+        "description": "Ehemaliger Fußballspieler"
+      },
+      {
+        "name": "Stefan Raab",
+        "description": "Entertainer und Produzent"
+      },
+      {
+        "name": "Lisa und Lena",
+        "description": "TikTok-Zwillinge"
+      },
+      {
+        "name": "Ed Sheeran",
+        "description": "Singer-Songwriter"
+      },
+      {
+        "name": "Annalena Baerbock",
+        "description": "Außenministerin Deutschlands"
+      },
+      {
+        "name": "Wladimir Putin",
+        "description": "Präsident Russlands"
+      },
+            {
+        "name": "Sebastian Vettel",
+        "description": "Ehemaliger Formel-1-Weltmeister"
+      },
+      {
+        "name": "Lisa Simpson",
+        "description": "Fiktive Figur aus der Serie 'Die Simpsons'"
+      },
+      {
+        "name": "Sido",
+        "description": "Rapper und Musikproduzent"
+      },
+      {
+        "name": "Carolin Kebekus",
+        "description": "Komikerin und Moderatorin"
+      },
+      {
+        "name": "Florian Silbereisen",
+        "description": "Sänger und Fernsehmoderator"
+      },
+      {
+        "name": "Greta Thunberg",
+        "description": "Klimaschutzaktivistin"
+      },
+      {
+        "name": "Pietro Lombardi",
+        "description": "Sänger und Ex-DSDS-Gewinner"
+      },
+      {
+        "name": "Ann-Kathrin Götze",
+        "description": "Model und Influencerin"
+      },
+      {
+        "name": "Shawn Mendes",
+        "description": "Sänger und Songwriter"
+      },
+      {
+        "name": "Bibi Blocksberg",
+        "description": "Fiktive Hexe aus Hörspiel und Serie"
+      },
+      {
+        "name": "Uli Hoeneß",
+        "description": "Fußballfunktionär"
+      },
+      {
+        "name": "Ariana Grande",
+        "description": "Sängerin und Schauspielerin"
+      },
+      {
+        "name": "Helene Fischer",
+        "description": "Schlagersängerin"
+      },
+      {
+        "name": "Luke Mockridge",
+        "description": "Comedian"
+      },
+      {
+        "name": "Zlatan Ibrahimović",
+        "description": "Fußballspieler"
+      },
+      {
+        "name": "Olaf Scholz",
+        "description": "Bundeskanzler Deutschlands"
+      },
+      {
+        "name": "Simone Thomalla",
+        "description": "Schauspielerin"
+      },
+      {
+        "name": "Patrick Star",
+        "description": "Fiktive Figur aus der Serie 'SpongeBob Schwammkopf'"
+      },
+      {
+        "name": "Kai Pflaume",
+        "description": "Fernsehmoderator"
+      },
+      {
+        "name": "Taylor Swift",
+        "description": "Sängerin und Songwriterin"
       }
     ]
   },
