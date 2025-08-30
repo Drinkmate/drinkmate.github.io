@@ -4,6 +4,7 @@
     <base href="./">
   <!-- <base href="/"> -->
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
 
@@ -24,6 +25,31 @@
 
   <!-- Google Identity Services SDK (für zukünftige direkte Einbindung möglich) -->
   <script src="https://accounts.google.com/gsi/client" async defer></script>
+
+  <script>
+    // Prefer HTML renderer on iOS because CanvasKit can be flaky on Mobile Safari
+    const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) ||
+                  (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+    window.flutterConfiguration = {
+      renderer: isIOS ? 'html' : 'auto',
+      // If you host CanvasKit assets on a CDN, set:
+      // canvaskitBaseUrl: 'https://unpkg.com/canvaskit-wasm@latest/bin/'
+    };
+
+    // Minimal error visibility to avoid silent white screens
+    (function(){
+      const show = (msg) => {
+        try {
+          const el = document.createElement('div');
+          el.style.cssText = 'position:fixed;left:0;right:0;bottom:0;background:rgba(0,0,0,.85);color:#fff;padding:8px 12px;font:12px/1.4 -apple-system,system-ui,Segoe UI,Roboto;z-index:99999;max-height:40vh;overflow:auto;';
+          el.textContent = 'Flutter Web Error: ' + msg;
+          document.body.appendChild(el);
+        } catch(_){}
+      };
+      window.addEventListener('error', (e) => show(e.message || String(e.error||e)));
+      window.addEventListener('unhandledrejection', (e) => show(String(e.reason||e)));
+    })();
+  </script>
 </head>
 <body>
   <script src="flutter_bootstrap.js" async></script>
