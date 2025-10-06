@@ -1,0 +1,419 @@
+{
+  "wuerdesteher": {
+    "title": "Würdest du eher?",
+    "description": "Triff eine Entscheidung zwischen zwei absurden Optionen!",
+    "questions": [
+      {
+        "optionA": "Für immer flüstern",
+        "optionB": "Für immer schreien"
+      },
+      {
+        "optionA": "Nie wieder lügen",
+        "optionB": "Nie wieder die Wahrheit sagen"
+      },
+      {
+        "optionA": "Nur noch süß essen",
+        "optionB": "Nur noch salzig essen"
+      },
+      {
+        "optionA": "Dein ganzes Leben livestreamen",
+        "optionB": "Nie wieder online sein"
+      },
+      {
+        "optionA": "In der Vergangenheit leben",
+        "optionB": "In der Zukunft leben"
+      },
+      {
+        "optionA": "Nie wieder duschen",
+        "optionB": "Nie wieder Zähne putzen"
+      },
+      {
+        "optionA": "Fliegen können",
+        "optionB": "Unsichtbar sein"
+      },
+      {
+        "optionA": "Eine Woche ohne Handy",
+        "optionB": "Eine Woche ohne gutes Essen"
+      },
+      {
+        "optionA": "Alle Gedanken laut aussprechen müssen",
+        "optionB": "Nie wieder sprechen dürfen"
+      },
+      {
+        "optionA": "Mit Tieren sprechen können",
+        "optionB": "Alle Sprachen der Welt sprechen können"
+      },
+      {
+        "optionA": "Nie wieder schlafen",
+        "optionB": "Nie wieder essen"
+      },
+      {
+        "optionA": "Einen Monat nackt rumlaufen",
+        "optionB": "Einen Monat keine Freunde sehen"
+      },
+      {
+        "optionA": "Dein ganzes Leben wiederholen",
+        "optionB": "In einem anderen Körper wiedergeboren werden"
+      },
+      {
+        "optionA": "In einer Reality-Show leben",
+        "optionB": "In einem Horrorfilm leben"
+      },
+      {
+        "optionA": "Immer zu früh sein",
+        "optionB": "Immer zu spät sein"
+      },
+      {
+        "optionA": "Nie wieder Musik hören",
+        "optionB": "Nie wieder Filme schauen"
+      },
+      {
+        "optionA": "Nie wieder Urlaub machen",
+        "optionB": "Nie wieder Wochenende haben"
+      },
+      {
+        "optionA": "Einen Tag lang berühmt",
+        "optionB": "Ein Leben lang reich"
+      },
+      {
+        "optionA": "Deinen Schwarm daten, aber er/sie liebt dich nicht",
+        "optionB": "Nie daten, aber heimlich geliebt werden"
+      },
+      {
+        "optionA": "Bei jedem Lachen furzen",
+        "optionB": "Bei jedem Niesen schreien"
+      },
+      {
+        "optionA": "Alles über deine Zukunft wissen",
+        "optionB": "Alles über deine Vergangenheit vergessen"
+      },
+      {
+        "optionA": "In einer WG mit deinem Ex",
+        "optionB": "Für immer alleine wohnen"
+      },
+      {
+        "optionA": "Nur noch flüssige Nahrung",
+        "optionB": "Nur noch festes Brot essen"
+      },
+      {
+        "optionA": "Nie wieder Kleidung tragen dürfen",
+        "optionB": "Immer ein Clownskostüm tragen müssen"
+      },
+      {
+        "optionA": "Ein Jahr kein Internet",
+        "optionB": "Ein Jahr keine Freunde treffen"
+      },
+      {
+        "optionA": "Einen Monat auf einem Boot leben",
+        "optionB": "Einen Monat in einer Höhle leben"
+      },
+      {
+        "optionA": "Nie wieder dein Lieblingsessen",
+        "optionB": "Nur noch dein Lieblingsessen"
+      },
+      {
+        "optionA": "Dein Handy für immer verlieren",
+        "optionB": "Dein Haustier verlieren"
+      },
+      {
+        "optionA": "Immer müde sein",
+        "optionB": "Immer hungrig sein"
+      },
+      {
+        "optionA": "Nie wieder lachen können",
+        "optionB": "Nie wieder weinen können"
+      },
+      {
+        "optionA": "In der Wildnis überleben",
+        "optionB": "Allein auf dem Mond leben"
+      },
+      {
+        "optionA": "Jeden Tag denselben Song hören",
+        "optionB": "Jeden Tag dasselbe essen"
+      },
+      {
+        "optionA": "Dein jüngeres Ich treffen",
+        "optionB": "Dein älteres Ich treffen"
+      },
+      {
+        "optionA": "Ewig leben",
+        "optionB": "Ein perfektes kurzes Leben führen"
+      },
+      {
+        "optionA": "Gedanken lesen",
+        "optionB": "In die Zukunft sehen"
+      },
+      {
+        "optionA": "Immer im Mittelpunkt stehen",
+        "optionB": "Nie beachtet werden"
+      },
+      {
+        "optionA": "Nie wieder lügen können",
+        "optionB": "Alle erkennen immer, wenn du lügst"
+      },
+      {
+        "optionA": "Ein Tier sein",
+        "optionB": "Ein Roboter sein"
+      },
+      {
+        "optionA": "Immer laut denken",
+        "optionB": "Nie wieder deine Meinung sagen dürfen"
+      },
+      {
+        "optionA": "Mit einem Elefanten wohnen",
+        "optionB": "Mit 100 Katzen wohnen"
+      },
+      {
+        "optionA": "Nie wieder feiern",
+        "optionB": "Nie wieder chillen"
+      },
+      {
+        "optionA": "Jeden Tag einen peinlichen Post machen",
+        "optionB": "Nie wieder posten dürfen"
+      },
+      {
+        "optionA": "Nur noch fluchen können",
+        "optionB": "Nie wieder sprechen"
+      },
+      {
+        "optionA": "Alles vergessen, was du jemals gelernt hast",
+        "optionB": "Nichts Neues mehr lernen können"
+      },
+      {
+        "optionA": "Dauerhaft Sonnenbrand",
+        "optionB": "Dauerhaft Gänsehaut"
+      },
+      {
+        "optionA": "100 Jahre in der Vergangenheit",
+        "optionB": "100 Jahre in der Zukunft leben"
+      },
+      {
+        "optionA": "In einem Freizeitpark leben",
+        "optionB": "In einer Bibliothek leben"
+      },
+      {
+        "optionA": "Ein berühmter Erfinder",
+        "optionB": "Ein erfolgreicher Influencer"
+      },
+      {
+        "optionA": "Nie wieder trinken dürfen (auch kein Wasser)",
+        "optionB": "Nie wieder essen dürfen"
+      },
+      {
+        "optionA": "In einem Musical leben",
+        "optionB": "In einem Actionfilm leben"
+      },
+      {
+        "optionA": "Nie wieder schlafen dürfen",
+        "optionB": "20 Stunden pro Tag schlafen müssen"
+      },
+      {
+        "optionA": "Immer barfuß gehen",
+        "optionB": "Immer High Heels tragen"
+      },
+      {
+        "optionA": "Ohne Spiegel leben",
+        "optionB": "Ohne Fotos leben"
+      },
+      {
+        "optionA": "Dich selbst heiraten",
+        "optionB": "Deinen schlimmsten Feind daten"
+      },
+      {
+        "optionA": "Für jeden Gedanken bezahlen müssen",
+        "optionB": "Für jede Lüge bestraft werden"
+      },
+      {
+        "optionA": "Nie wieder deine Familie sehen",
+        "optionB": "Nie wieder Freunde sehen"
+      },
+      {
+        "optionA": "Mit Aliens leben",
+        "optionB": "Mit Geistern kommunizieren"
+      },
+      {
+        "optionA": "Für immer Kind bleiben",
+        "optionB": "Sofort alt werden"
+      },
+      {
+        "optionA": "Ein Einhorn reiten",
+        "optionB": "Einen Drachen fliegen"
+      },
+      {
+        "optionA": "Ein Jahr ohne Musik",
+        "optionB": "Ein Jahr ohne Bücher"
+      },
+      {
+        "optionA": "Für immer Single",
+        "optionB": "Für immer in Beziehung – aber ohne Liebe"
+      },
+      {
+        "optionA": "Nie wieder lachen dürfen",
+        "optionB": "Nie wieder weinen dürfen"
+      },
+      {
+        "optionA": "In einer Endlosschleife leben",
+        "optionB": "Jeden Tag in einer anderen Realität aufwachen"
+      },
+      {
+        "optionA": "Ohne Erinnerungen leben",
+        "optionB": "Ohne Emotionen leben"
+      },
+      {
+        "optionA": "Dein ganzes Leben in einem Film sehen",
+        "optionB": "Das Leben anderer heimlich mitverfolgen"
+      },
+      {
+        "optionA": "Alle deine Träume steuern",
+        "optionB": "Nie wieder träumen"
+      },
+      {
+        "optionA": "Dein Leben gegen das einer anderen Person tauschen",
+        "optionB": "Mit niemandem je tauschen dürfen"
+      },
+      {
+        "optionA": "Nur noch fliegen als Fortbewegung",
+        "optionB": "Nie wieder reisen dürfen"
+      },
+      {
+        "optionA": "Nie wieder Geburtstag feiern",
+        "optionB": "Jeden Tag Geburtstag haben"
+      },
+      {
+        "optionA": "Jeden Tag 5 Minuten rückwärts laufen",
+        "optionB": "Immer alles in Reimen sagen"
+      },
+      {
+        "optionA": "Eine Woche in der Wildnis überleben",
+        "optionB": "Eine Woche in der Stadt ohne Technik leben"
+      },
+      {
+        "optionA": "Eine Woche lang nur schreien",
+        "optionB": "Eine Woche lang nur singen"
+      },
+      {
+        "optionA": "Alle deine Gedanken sind sichtbar",
+        "optionB": "Deine Vergangenheit ist für alle lesbar"
+      },
+      {
+        "optionA": "Du kannst nie wieder schlafen",
+        "optionB": "Du bist immer müde"
+      },
+      {
+        "optionA": "Dauerhaft Regenwolke über dir",
+        "optionB": "Dauerhaft Sonne, aber nie Schatten"
+      },
+      {
+        "optionA": "Deine Eltern lesen deine Gedanken",
+        "optionB": "Deine Freunde sehen deinen Verlauf"
+      },
+      {
+        "optionA": "Immer hungrig",
+        "optionB": "Immer voller Blase"
+      },
+      {
+        "optionA": "In einem Musical leben",
+        "optionB": "In einer Talkshow leben"
+      },
+      {
+        "optionA": "In einem Labyrinth aufwachen",
+        "optionB": "Auf einer einsamen Insel aufwachen"
+      },
+      {
+        "optionA": "Im Körper eines Kindes leben",
+        "optionB": "Mit dem Verstand eines Kindes leben"
+      },
+      {
+        "optionA": "Ohne Sinn für Humor",
+        "optionB": "Ohne Empathie"
+      },
+      {
+        "optionA": "Nur noch Floskeln reden",
+        "optionB": "Nur noch Fragen stellen"
+      },
+      {
+        "optionA": "Deine eigene Beerdigung besuchen",
+        "optionB": "Deine Geburt noch mal erleben"
+      },
+      {
+        "optionA": "Gedanken verschicken können",
+        "optionB": "Träume aufzeichnen können"
+      },
+      {
+        "optionA": "In einer Welt ohne Farben leben",
+        "optionB": "In einer Welt ohne Geräusche"
+      },
+      {
+        "optionA": "Eine Nacht in einem Geisterhaus",
+        "optionB": "Eine Nacht allein im Wald"
+      },
+      {
+        "optionA": "Deine Emotionen sind für alle sichtbar",
+        "optionB": "Deine Lügen leuchten rot auf"
+      },
+      {
+        "optionA": "Einen Monat lang keinen Sex haben dürfen",
+        "optionB": "Einen Monat lang jeden Crush alles erzählen müssen"
+      },
+      {
+        "optionA": "Einmal mit deinem Crush knutschen – aber niemand darf es je erfahren",
+        "optionB": "Nie mit ihm/ihr knutschen – aber alle glauben, du hättest es"
+      },
+      {
+        "optionA": "Einen One-Night-Stand mit deinem Celebrity-Crush",
+        "optionB": "Eine Beziehung mit jemandem, den du nur okay findest"
+      },
+      {
+        "optionA": "Beim Küssen erwischt werden",
+        "optionB": "Beim Sexten erwischt werden"
+      },
+      {
+        "optionA": "Nie wieder flirten dürfen",
+        "optionB": "Alles, was du flirtest, wird öffentlich gepostet"
+      },
+      {
+        "optionA": "Einen Tag lang jeden Wunsch deines Dates erfüllen",
+        "optionB": "Einen Tag lang jeden Wunsch deiner Ex erfüllen müssen"
+      },
+      {
+        "optionA": "Deine letzten 10 Nachrichten öffentlich machen",
+        "optionB": "Nie wieder privat schreiben dürfen"
+      },
+      {
+        "optionA": "Dein Datingleben vor der ganzen Runde erklären müssen",
+        "optionB": "Nie wieder daten dürfen"
+      },
+      {
+        "optionA": "Mit deinem Crush übernachten – aber nichts darf passieren",
+        "optionB": "Mit deinem Ex küssen – aber niemand erfährt es"
+      },
+      {
+        "optionA": "Eine Woche lang jedes Flirtangebot annehmen",
+        "optionB": "Einen Monat lang jedes ablehnen"
+      },
+      {
+        "optionA": "Immer beim Flirten rot anlaufen",
+        "optionB": "Beim Flirten immer stottern"
+      },
+      {
+        "optionA": "Jedes Mal die Wahrheit sagen müssen, wenn jemand fragt 'Stehst du auf mich?'",
+        "optionB": "Nie wieder sagen dürfen, auf wen du stehst"
+      },
+      {
+        "optionA": "Einen Striptease vor jemandem deiner Wahl",
+        "optionB": "Eine intime Sprachnachricht an jemanden aus der Runde schicken"
+      },
+      {
+        "optionA": "Einen Crush aus deinem Umfeld anrufen und 'Ich mag dich' sagen",
+        "optionB": "Nie wieder Kontakt zu ihm/ihr haben"
+      },
+      {
+        "optionA": "Dein schlimmstes Flirt-Fail-Erlebnis nachspielen",
+        "optionB": "Deinen besten Flirt-Spruch live performen"
+      },
+      {
+        "optionA": "Jede*r in der Runde darf dir eine intime Frage stellen (du musst antworten)",
+        "optionB": "Du darfst eine intime Frage an jede*n stellen – aber sie dürfen lügen"
+      }
+    ]
+  }}

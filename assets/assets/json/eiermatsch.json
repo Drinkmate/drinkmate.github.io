@@ -1,0 +1,119 @@
+{
+  "eiermatsch": {
+    "title": "Eiermatsch",
+    "description": "Nenne reihum passende Begriffe zum Thema – wer zu lange zögert, bekommt einen Punkt!",
+    "themes": {
+      "Geografie": [
+        "Hauptstädte der Welt",
+        "Länder in Europa",
+        "Städte in Deutschland",
+        "Städte weltweit",
+        "Inseln",
+        "Seen",
+        "Gebirge",
+        "Länderflaggen",
+        "Währungen",
+        "Berühmte Sehenswürdigkeiten"
+      ],
+      "Lebensmittel": [
+        "Obstsorten",
+        "Gemüsesorten",
+        "Getränkemarken",
+        "Fast-Food-Ketten",
+        "Süßigkeiten",
+        "Eissorten",
+        "Brotsorten",
+        "Wurstsorten",
+        "Alkoholsorten",
+        "Biermarken",
+        "Weinsorten",
+        "Pizzabeläge",
+        "Nudelsorten"
+      ],
+      "Tiere & Natur": [
+        "Tiere",
+        "Säugetiere",
+        "Insekten",
+        "Vögel",
+        "Haustiere",
+        "Meeresbewohner",
+        "Blumenarten",
+        "Bäume"
+      ],
+      "Menschen & Gesellschaft": [
+        "Berufe",
+        "Nationalmannschaften",
+        "Sportvereine",
+        "Feiertage",
+        "Schulfächer",
+        "Universitäten",
+        "Fernsehmoderatoren",
+        "Influencer",
+        "YouTuber"
+      ],
+      "Technik & Medien": [
+        "Smartphone-Apps",
+        "Messengerdienste",
+        "Social-Media-Plattformen",
+        "Streamingdienste",
+        "Internetseiten",
+        "Marken von Smartphones",
+        "Elektronikmärkte",
+        "TV-Sender",
+        "Podcasts"
+      ],
+      "Kunst & Kultur": [
+        "Fernsehserien",
+        "Kinderserien",
+        "Zeichentrickfilme",
+        "Disney-Filme",
+        "Pixar-Filme",
+        "Filmgenres",
+        "Musikrichtungen",
+        "Sängerinnen",
+        "Sänger",
+        "Bands",
+        "Rapper",
+        "Buchgenres",
+        "Jugendbuchreihen",
+        "Comicfiguren",
+        "Musikfestivals",
+        "Berühmte Schauspieler",
+        "Berühmte Schauspielerinnen",
+        "Berühmte Gemälde",
+        "Museen"
+      ],
+      "Spiele & Freizeit": [
+        "Sportarten mit Netz",
+        "Olympische Sportarten",
+        "Winter-Sportarten",
+        "Extremsportarten",
+        "Ballspiele",
+        "Brettspiele",
+        "Kartenspiele",
+        "Videospielkonsolen",
+        "Spiele-Apps"
+      ],
+      "Mode & Konsum": [
+        "Modemarken",
+        "Kleidungsstücke",
+        "Schuhmarken",
+        "Luxusmarken",
+        "Parfümmarken",
+        "Möbelstücke",
+        "Küchengeräte",
+        "Marken von Haushaltsgeräten",
+        "Autozubehör",
+        "Supermärkte",
+        "Baumärkte",
+        "Zahnpflegeprodukte"
+      ],
+      "Wissenschaft & Bildung": [
+        "Schulutensilien",
+        "Musikinstrumente",
+        "Schulfächer",
+        "Studiengänge"
+      ]
+    }
+  }
+}

@@ -1,55 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <base href="./">
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
   <!-- <base href="/"> -->
+  <base href="https://drinkmate.github.io/drinkmate/">
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
 
-  <!-- Google Sign-In Client ID (⚠️ notwendig für Web-Login) -->
-  <meta name="google-signin-client_id" content="256419028888-6o045a056ea78jmah9lgbrjga5k3r374.apps.googleusercontent.com" />
-
   <!-- iOS meta tags & icons -->
-  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="drinkmate">
+  <meta name="apple-mobile-web-app-title" content="your_future">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>drinkmate</title>
+  <title>your_future</title>
   <link rel="manifest" href="manifest.json">
-
-  <!-- Google Identity Services SDK (für zukünftige direkte Einbindung möglich) -->
-  <script src="https://accounts.google.com/gsi/client" async defer></script>
-
-  <script>
-    // Prefer HTML renderer on iOS because CanvasKit can be flaky on Mobile Safari
-    const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) ||
-                  (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
-    window.flutterConfiguration = {
-      renderer: isIOS ? 'html' : 'auto',
-      // If you host CanvasKit assets on a CDN, set:
-      // canvaskitBaseUrl: 'https://unpkg.com/canvaskit-wasm@latest/bin/'
-    };
-
-    // Minimal error visibility to avoid silent white screens
-    (function(){
-      const show = (msg) => {
-        try {
-          const el = document.createElement('div');
-          el.style.cssText = 'position:fixed;left:0;right:0;bottom:0;background:rgba(0,0,0,.85);color:#fff;padding:8px 12px;font:12px/1.4 -apple-system,system-ui,Segoe UI,Roboto;z-index:99999;max-height:40vh;overflow:auto;';
-          el.textContent = 'Flutter Web Error: ' + msg;
-          document.body.appendChild(el);
-        } catch(_){}
-      };
-      window.addEventListener('error', (e) => show(e.message || String(e.error||e)));
-      window.addEventListener('unhandledrejection', (e) => show(String(e.reason||e)));
-    })();
-  </script>
 </head>
 <body>
   <script src="flutter_bootstrap.js" async></script>

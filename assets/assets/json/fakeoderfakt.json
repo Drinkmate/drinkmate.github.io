@@ -1,0 +1,878 @@
+{
+    "fakeoderfakt": {
+        "title": "Fake oder Fakt",
+        "description": "Errate, ob die Aussage wahr oder falsch ist!",
+        "questions": [
+            {
+                "statement": "Die Freiheitsstatue steht in Paris.",
+                "isTrue": false,
+                "category": "Allgemein",
+                "explanation": "Die Freiheitsstatue steht in New York, nicht in Paris."
+            },
+            {
+                "statement": "Bienen sterben nach einem Stich immer.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Nur Honigbienen sterben nach einem Stich, andere Bienenarten nicht."
+            },
+            {
+                "statement": "Der Eiffelturm steht in London.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Der Eiffelturm steht in Paris, nicht in London."
+            },
+            {
+                "statement": "Der Mensch besteht zu über 60% aus Wasser.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Der menschliche Körper besteht tatsächlich zu rund 60% aus Wasser."
+            },
+            {
+                "statement": "Der höchste Berg der Welt ist der Mount Everest.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Mount Everest ist mit 8.849 Metern der höchste Berg der Erde."
+            },
+            {
+                "statement": "Gold leitet Strom besser als Kupfer.",
+                "isTrue": false,
+                "category": "Wissenschaft",
+                "explanation": "Silber leitet am besten, dann Kupfer, Gold leitet schlechter als Kupfer."
+            },
+            {
+                "statement": "Der Amazonas ist der längste Fluss der Welt.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Der Nil ist länger als der Amazonas."
+            },
+            {
+                "statement": "Fledermäuse sind blind.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Fledermäuse können sehen, nutzen aber Echoortung zusätzlich."
+            },
+            {
+                "statement": "Die Erde dreht sich in 24 Stunden einmal um die eigene Achse.",
+                "isTrue": false,
+                "category": "Wissenschaft",
+                "explanation": "Die Erdrotation dauert rund 23 Stunden und 56 Minuten (Sterntag)."
+            },
+            {
+                "statement": "Der Marianengraben ist die tiefste Stelle der Ozeane.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Marianengraben im Pazifik ist mit etwa 11.000 Metern die tiefste bekannte Stelle."
+            },
+            {
+                "statement": "Alle Spinnen sind giftig.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Viele Spinnen sind ungiftig für Menschen; sie nutzen Gift zur Beuteerlegung, nicht für uns."
+            },
+            {
+                "statement": "Der Mensch hat mehr als fünf Sinne.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Neben den klassischen fünf Sinnen gibt es z. B. Gleichgewichtssinn und Temperatursinn."
+            },
+            {
+                "statement": "Der Atlantik ist größer als der Pazifik.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Der Pazifik ist der größte Ozean der Erde."
+            },
+            {
+                "statement": "Das Herz einer Giraffe wiegt etwa 11 Kilogramm.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Das Herz einer Giraffe ist besonders groß und kräftig, um Blut in den langen Hals zu pumpen."
+            },
+            {
+                "statement": "Koalas trinken regelmäßig Wasser aus Flüssen.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Koalas decken ihren Wasserbedarf meist über Eukalyptusblätter und trinken selten."
+            },
+            {
+                "statement": "Pinguine leben auf dem Nordpol.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Pinguine leben auf der Südhalbkugel, vor allem in der Antarktis, nicht am Nordpol."
+            },
+            {
+                "statement": "Der längste Tag des Jahres ist in der Regel im Juni auf der Nordhalbkugel.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Die Sommersonnenwende findet auf der Nordhalbkugel im Juni statt und bringt den längsten Tag."
+            },
+            {
+                "statement": "Haie haben keine Knochen.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Das Skelett von Haien besteht aus Knorpel, nicht aus Knochen."
+            },
+            {
+                "statement": "Der Mond hat eine eigene Lichtquelle.",
+                "isTrue": false,
+                "category": "Wissenschaft",
+                "explanation": "Der Mond reflektiert nur das Licht der Sonne, er leuchtet nicht selbst."
+            },
+            {
+                "statement": "Die Sahara ist die größte Wüste der Welt.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Die Antarktis ist flächenmäßig die größte Wüste der Erde."
+            },
+            {
+                "statement": "Der Mensch hat 206 Knochen im erwachsenen Körper.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Ein erwachsener Mensch hat typischerweise 206 Knochen."
+            },
+            {
+                "statement": "Der Nil fließt von Süden nach Norden.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Nil fließt tatsächlich von Zentralafrika nach Norden ins Mittelmeer."
+            },
+            {
+                "statement": "Die Alpen liegen ausschließlich in Deutschland.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Die Alpen erstrecken sich über mehrere Länder, darunter Österreich, Schweiz, Italien und Deutschland."
+            },
+            {
+                "statement": "Tomaten sind Gemüse.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Botanisch sind Tomaten Früchte, auch wenn sie kulinarisch oft als Gemüse gelten."
+            },
+            {
+                "statement": "Der Blutdruck wird in Pascal gemessen.",
+                "isTrue": false,
+                "category": "Wissenschaft",
+                "explanation": "Der Blutdruck wird in Millimeter Quecksilbersäule (mmHg) gemessen."
+            },
+            {
+                "statement": "Das Great Barrier Reef liegt vor der Küste Australiens.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Das Great Barrier Reef liegt im Korallenmeer vor Queensland, Australien."
+            },
+            {
+                "statement": "Elefanten können nicht springen.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Elefanten sind die einzigen Säugetiere, die nicht springen können."
+            },
+            {
+                "statement": "Der Mount Fuji liegt in China.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Der Mount Fuji liegt in Japan."
+            },
+            {
+                "statement": "Ein Jahr auf dem Mars dauert länger als auf der Erde.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Der Mars braucht etwa 687 Erdentage für einen Umlauf um die Sonne."
+            },
+            {
+                "statement": "Schnecken haben Zähne.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Schnecken besitzen eine Radula mit vielen winzigen Zähnchen, um Nahrung abzuraspeln."
+            },
+            {
+                "statement": "Die Donau mündet in die Nordsee.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Die Donau mündet ins Schwarze Meer."
+            },
+            {
+                "statement": "Wale sind Fische.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Wale sind Säugetiere, keine Fische."
+            },
+            {
+                "statement": "Berlin ist die größte Stadt Deutschlands nach Fläche.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Berlin ist die bevölkerungsreichste, aber flächenmäßig ist München größer."
+            },
+            {
+                "statement": "Kängurus können rückwärts springen.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Kängurus können sich nicht rückwärts fortbewegen."
+            },
+            {
+                "statement": "Der Kilimandscharo liegt in Tansania.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Kilimandscharo befindet sich im Nordosten Tansanias."
+            },
+            {
+                "statement": "Licht ist eine Welle und ein Teilchen.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Licht zeigt sowohl Wellen- als auch Teilcheneigenschaften (Welle-Teilchen-Dualismus)."
+            },
+            {
+                "statement": "Bären halten immer Winterschlaf.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Nicht alle Bärenarten halten Winterschlaf; manche fallen nur in Winterruhe."
+            },
+            {
+                "statement": "Die Sahara liegt in Südamerika.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Die Sahara liegt in Nordafrika."
+            },
+            {
+                "statement": "Das menschliche Herz schlägt im Durchschnitt etwa 70 Mal pro Minute.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Der Ruhepuls eines Erwachsenen liegt im Schnitt bei 60-80 Schlägen pro Minute."
+            },
+            {
+                "statement": "Strauße können fliegen.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Strauße sind flugunfähige Vögel, die schnell laufen können."
+            },
+            {
+                "statement": "Der Amazonas mündet in den Atlantik.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Amazonas mündet in Brasilien in den Atlantischen Ozean."
+            },
+            {
+                "statement": "Quallen haben ein Gehirn.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Quallen besitzen kein Gehirn, sondern ein Nervennetz."
+            },
+            {
+                "statement": "Venus ist der heißeste Planet im Sonnensystem.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Die Venus hat aufgrund ihrer dichten Atmosphäre die höchste Oberflächentemperatur."
+            },
+            {
+                "statement": "Das Schwarze Meer liegt zwischen Europa und Afrika.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Das Schwarze Meer liegt zwischen Europa und Asien."
+            },
+            {
+                "statement": "Bananen wachsen auf Bäumen.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Bananen wachsen an Stauden, nicht an Bäumen."
+            },
+            {
+                "statement": "Erdbeeren sind Beeren.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Botanisch sind Erdbeeren Sammelnussfrüchte und keine Beeren."
+            },
+            {
+                "statement": "Die Zugspitze ist der höchste Berg Deutschlands.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Die Zugspitze ist mit 2.962 Metern der höchste Berg Deutschlands."
+            },
+            {
+                "statement": "Eisbären und Pinguine leben gemeinsam am Pol.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Eisbären leben in der Arktis (Nordpol), Pinguine in der Antarktis (Südpol)."
+            },
+            {
+                "statement": "Der Rhein mündet in die Nordsee.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Rhein mündet in den Niederlanden in die Nordsee."
+            },
+            {
+                "statement": "Schokolade enthält Theobromin, das für Hunde giftig ist.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Theobromin in Schokolade ist für Hunde giftig und kann tödlich wirken."
+            },
+            {
+                "statement": "Der Viktoriasee ist der größte See Afrikas.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Viktoriasee ist flächenmäßig der größte See Afrikas."
+            },
+            {
+                "statement": "Der menschliche Körper hat 5 Liter Blut.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Ein Erwachsener hat im Schnitt 4-6 Liter Blut."
+            },
+            {
+                "statement": "Australien ist gleichzeitig ein Land und ein Kontinent.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Australien ist sowohl ein Land als auch der kleinste Kontinent."
+            },
+            {
+                "statement": "Alle Schlangen sind giftig.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Nur ein Teil der Schlangenarten ist giftig."
+            },
+            {
+                "statement": "Die Erde ist perfekt rund.",
+                "isTrue": false,
+                "category": "Wissenschaft",
+                "explanation": "Die Erde ist an den Polen abgeflacht (Rotationsellipsoid)."
+            },
+            {
+                "statement": "Der längste Fluss Europas ist die Wolga.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Die Wolga ist mit 3.530 Kilometern der längste Fluss Europas."
+            },
+            {
+                "statement": "Kamele speichern Wasser in ihren Höckern.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Kamelhöcker speichern Fett, nicht Wasser."
+            },
+            {
+                "statement": "Die Erde ist der einzige Planet mit Leben.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Bisher ist nur auf der Erde Leben nachgewiesen."
+            },
+            {
+                "statement": "Die Elbe mündet in die Ostsee.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Die Elbe mündet bei Cuxhaven in die Nordsee."
+            },
+            {
+                "statement": "Fische können unter Wasser ertrinken.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Bei Sauerstoffmangel im Wasser können Fische ersticken."
+            },
+            {
+                "statement": "Die ISS umkreist die Erde einmal pro Tag.",
+                "isTrue": false,
+                "category": "Wissenschaft",
+                "explanation": "Die ISS umkreist die Erde etwa alle 90 Minuten."
+            },
+            {
+                "statement": "Krokodile weinen echte Tränen beim Fressen.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Krokodile scheiden beim Fressen Flüssigkeit aus den Augen aus, das sieht wie Weinen aus."
+            },
+            {
+                "statement": "Der Baikalsee ist der tiefste Süßwassersee der Welt.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Baikalsee in Sibirien ist über 1.600 Meter tief."
+            },
+            {
+                "statement": "Alle Pilze sind giftig.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Es gibt essbare und giftige Pilze."
+            },
+            {
+                "statement": "Der Äquator teilt die Erde in Ost- und Westhalbkugel.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Der Äquator teilt die Erde in Nord- und Südhalbkugel."
+            },
+            {
+                "statement": "Der menschliche Magen produziert Salzsäure.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Die Magensäure besteht hauptsächlich aus Salzsäure."
+            },
+            {
+                "statement": "Afrika hat die meisten Länder aller Kontinente.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Afrika hat mit 54 Staaten die meisten Länder."
+            },
+            {
+                "statement": "Die Venus dreht sich schneller als die Erde.",
+                "isTrue": false,
+                "category": "Wissenschaft",
+                "explanation": "Die Venus hat eine sehr langsame Rotation (243 Erdentage)."
+            },
+            {
+                "statement": "Seesterne haben kein Gehirn.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Seesterne besitzen kein zentrales Gehirn, nur ein Nervensystem."
+            },
+            {
+                "statement": "Der Himalaya wächst noch.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Durch die Kollision der indischen und eurasischen Platte wächst der Himalaya weiter."
+            },
+            {
+                "statement": "Orang-Utans leben in Afrika.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Orang-Utans leben auf den Inseln Borneo und Sumatra in Asien."
+            },
+            {
+                "statement": "Der Atlantik ist salziger als der Pazifik.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Im Durchschnitt hat der Atlantik einen höheren Salzgehalt als der Pazifik."
+            },
+            {
+                "statement": "Die größte Insel der Welt ist Grönland.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Grönland ist mit über 2 Millionen Quadratkilometern die größte Insel der Welt."
+            },
+            {
+                "statement": "Schmetterlinge schmecken mit den Füßen.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Schmetterlinge besitzen Geschmackssinneszellen an den Füßen."
+            },
+            {
+                "statement": "Der Mississippi ist länger als der Amazonas.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Der Amazonas ist länger als der Mississippi."
+            },
+            {
+                "statement": "Der Bodensee liegt ausschließlich in Deutschland.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Der Bodensee gehört zu Deutschland, Österreich und der Schweiz."
+            },
+            {
+                "statement": "Der menschliche Blinddarm ist völlig nutzlos.",
+                "isTrue": false,
+                "category": "Wissenschaft",
+                "explanation": "Der Blinddarm hat immunologische Funktionen und ist nicht völlig nutzlos."
+            },
+            {
+                "statement": "Eulen können ihren Kopf um 360 Grad drehen.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Eulen können ihren Kopf bis etwa 270 Grad drehen, nicht 360 Grad."
+            },
+            {
+                "statement": "Der Pazifik ist größer als alle Landflächen zusammen.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Pazifik ist mit rund 165 Mio. km² größer als alle Kontinente zusammen."
+            },
+            {
+                "statement": "Chamäleons wechseln ihre Farbe nur zur Tarnung.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Chamäleons ändern ihre Farbe auch zur Kommunikation und Temperaturregulierung."
+            },
+            {
+                "statement": "Der menschliche Körper hat keine Bakterien.",
+                "isTrue": false,
+                "category": "Wissenschaft",
+                "explanation": "Der menschliche Körper beherbergt Milliarden von Bakterien (Mikrobiom)."
+            },
+            {
+                "statement": "Der größte Planet unseres Sonnensystems ist Jupiter.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Jupiter ist der größte Planet im Sonnensystem."
+            },
+            {
+                "statement": "Pandas ernähren sich ausschließlich von Bambus.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Pandas fressen überwiegend Bambus, nehmen aber auch andere Pflanzen und gelegentlich Fleisch zu sich."
+            },
+            {
+                "statement": "Die Sonne ist ein Planet.",
+                "isTrue": false,
+                "category": "Wissenschaft",
+                "explanation": "Die Sonne ist ein Stern, kein Planet."
+            },
+            {
+                "statement": "Die Nordsee ist ein Binnenmeer.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Die Nordsee ist ein Randmeer des Atlantiks, kein Binnenmeer."
+            },
+            {
+                "statement": "Der Eiffelturm wird im Sommer höher.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Durch Wärme dehnt sich Metall aus, der Turm kann bis zu 15 cm wachsen."
+            },
+            {
+                "statement": "Der größte Vulkan unseres Sonnensystems liegt auf der Erde.",
+                "isTrue": false,
+                "category": "Astronomie",
+                "explanation": "Olympus Mons auf dem Mars ist der größte bekannte Vulkan."
+            },
+            {
+                "statement": "Die Donau fließt durch mehr Länder als jeder andere Fluss der Welt.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Die Donau durchquert zehn Länder und ist damit sehr international."
+            },
+            {
+                "statement": "Der Schall bewegt sich im Wasser langsamer als in der Luft.",
+                "isTrue": false,
+                "category": "Wissenschaft",
+                "explanation": "Schall breitet sich im Wasser schneller aus als in Luft."
+            },
+            {
+                "statement": "Papageien können menschliche Stimmen nachahmen.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Papageien sind begabte Imitatoren und können Worte und Laute nachahmen."
+            },
+            {
+                "statement": "Der Mount Everest wächst nicht mehr.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Durch Plattenbewegungen wächst er weiterhin einige Millimeter pro Jahr."
+            },
+            {
+                "statement": "Das Herz eines Kolibris schlägt über 1.000 Mal pro Minute.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Kolibris haben extrem hohe Herzfrequenzen zur Energieversorgung beim Fliegen."
+            },
+            {
+                "statement": "Alle Delfine sind Süßwasserbewohner.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Die meisten Delfine leben im Meer; es gibt nur wenige Süßwasserarten."
+            },
+            {
+                "statement": "Die größte Stadt der Welt nach Einwohnern ist Tokio.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Tokio hat über 37 Millionen Einwohner in der Metropolregion."
+            },
+            {
+                "statement": "Schildkröten können aus ihrem Panzer herauskriechen.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Der Panzer ist Teil des Skeletts und fest verwachsen."
+            },
+            {
+                "statement": "Im Weltall gibt es keinen Schall.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Schall braucht ein Medium wie Luft; im Vakuum breitet er sich nicht aus."
+            },
+            {
+                "statement": "Alle Sterne sind größer als die Sonne.",
+                "isTrue": false,
+                "category": "Astronomie",
+                "explanation": "Es gibt Sterne, die kleiner und solche, die größer als die Sonne sind."
+            },
+            {
+                "statement": "Die Niagara-Fälle liegen zwischen Kanada und den USA.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Sie befinden sich an der Grenze zwischen Ontario (Kanada) und New York (USA)."
+            },
+            {
+                "statement": "Chamäleons können ihre Zunge schneller ausfahren als ihr Körper lang ist.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Die Zunge kann das 1,5–2-fache der Körperlänge erreichen und sehr schnell zuschnappen."
+            },
+            {
+                "statement": "Die Erde hat nur einen Mond.",
+                "isTrue": true,
+                "category": "Astronomie",
+                "explanation": "Es gibt nur den Mond als natürlichen Satelliten, keine weiteren großen Monde."
+            },
+            {
+                "statement": "Ein Kängurubaby ist bei der Geburt so groß wie ein Bohnenkern.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Neugeborene Kängurus sind winzig und entwickeln sich im Beutel weiter."
+            },
+            {
+                "statement": "Der Panamakanal verbindet den Atlantik mit dem Indischen Ozean.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Er verbindet Atlantik und Pazifik."
+            },
+            {
+                "statement": "Der höchste Berg Afrikas ist der Kilimandscharo.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Kilimandscharo in Tansania ist 5.895 m hoch."
+            },
+            {
+                "statement": "Fledermäuse sind Säugetiere.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Fledermäuse sind die einzigen aktiv fliegenden Säugetiere."
+            },
+            {
+                "statement": "Die Antarktis gehört zu keinem Land.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Das Antarktis-Vertragssystem verbietet Gebietsansprüche als souveräne Staaten."
+            },
+            {
+                "statement": "Der Atlantik ist das tiefste Meer der Erde.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Der Pazifik hat tiefere Stellen (z. B. Marianengraben)."
+            },
+            {
+                "statement": "Kamele können mehrere Wochen ohne Wasser überleben.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Sie sind an trockene Lebensräume angepasst und speichern Wasser im Körper."
+            },
+            {
+                "statement": "Ein Jahr auf dem Merkur dauert länger als ein Tag dort.",
+                "isTrue": false,
+                "category": "Astronomie",
+                "explanation": "Der Merkur rotiert sehr langsam; ein Tag ist länger als sein Jahr."
+            },
+            {
+                "statement": "Es gibt mehr Hühner als Menschen auf der Erde.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Die Weltpopulation von Hühnern liegt bei über 25 Milliarden."
+            },
+            {
+                "statement": "Der Viktoriasee ist der tiefste See Afrikas.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Er ist der größte nach Fläche, der tiefste ist der Tanganjikasee."
+            },
+            {
+                "statement": "Bier enthält keine Vitamine.",
+                "isTrue": false,
+                "category": "Ernährung",
+                "explanation": "Bier enthält kleine Mengen B-Vitamine aus der Hefe."
+            },
+            {
+                "statement": "Der längste Tunnel der Welt liegt in der Schweiz.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Gotthard-Basistunnel ist mit 57 km der längste Eisenbahntunnel."
+            },
+            {
+                "statement": "Die Erde ist der dritte Planet von der Sonne.",
+                "isTrue": true,
+                "category": "Astronomie",
+                "explanation": "Merkur – Venus – Erde – Mars … das ist die Reihenfolge."
+            },
+            {
+                "statement": "Wale schlafen nie.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Wale schlafen in Halbseiten-Schlafphasen."
+            },
+            {
+                "statement": "Der Mond ist größer als die Erde.",
+                "isTrue": false,
+                "category": "Astronomie",
+                "explanation": "Er hat nur etwa ein Viertel des Erddurchmessers."
+            },
+            {
+                "statement": "Die Erde dreht sich von Westen nach Osten.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Die Erde rotiert tatsächlich von Westen nach Osten, daher geht die Sonne im Osten auf."
+            },
+            {
+                "statement": "Der Viktoriasee liegt in Südamerika.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Der Viktoriasee liegt in Ostafrika."
+            },
+            {
+                "statement": "Bienen können UV-Licht sehen.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Bienen nehmen ultraviolettes Licht wahr, was beim Erkennen von Blüten hilft."
+            },
+            {
+                "statement": "Der längste Fluss Südamerikas ist der Paraná.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Der Amazonas ist der längste Fluss Südamerikas."
+            },
+            {
+                "statement": "Das Herz eines Blauwals ist so groß wie ein Auto.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Blauwalherzen können über 1500 Kilogramm wiegen und sind so groß wie ein Auto."
+            },
+            {
+                "statement": "Der Suezkanal verbindet das Mittelmeer mit dem Indischen Ozean.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Er verbindet das Mittelmeer mit dem Roten Meer."
+            },
+            {
+                "statement": "Alle Pinguinarten leben in der Antarktis.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Es gibt Pinguine auch in wärmeren Regionen der Südhalbkugel."
+            },
+            {
+                "statement": "Das Känguru ist das Nationalsymbol von Australien.",
+                "isTrue": true,
+                "category": "Kultur",
+                "explanation": "Das Känguru ist auf dem australischen Wappen abgebildet."
+            },
+            {
+                "statement": "Die Donau mündet ins Mittelmeer.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Die Donau mündet ins Schwarze Meer."
+            },
+            {
+                "statement": "Die Sahara dehnt sich jährlich aus.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Klimaveränderungen lassen die Wüste langsam wachsen."
+            },
+            {
+                "statement": "Der Mount Everest liegt in Nepal und China.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Gipfel liegt an der Grenze zwischen Nepal und dem Autonomen Gebiet Tibet."
+            },
+            {
+                "statement": "Koalas schlafen nur zwei Stunden pro Tag.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Koalas schlafen bis zu 20 Stunden pro Tag."
+            },
+            {
+                "statement": "Die Erde ist größer als der Jupiter.",
+                "isTrue": false,
+                "category": "Astronomie",
+                "explanation": "Jupiter ist der größte Planet unseres Sonnensystems."
+            },
+            {
+                "statement": "Der Nil mündet ins Rote Meer.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Der Nil mündet ins Mittelmeer."
+            },
+            {
+                "statement": "Orang-Utans sind Menschenaffen.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Sie gehören wie Gorillas und Schimpansen zur Familie der Menschenaffen."
+            },
+            {
+                "statement": "Der Mond dreht der Erde immer dieselbe Seite zu.",
+                "isTrue": true,
+                "category": "Astronomie",
+                "explanation": "Der Mond ist rotationsgebunden und zeigt uns immer dieselbe Seite."
+            },
+            {
+                "statement": "Der Grand Canyon liegt in Kanada.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Der Grand Canyon liegt in Arizona, USA."
+            },
+            {
+                "statement": "Erdöl entsteht aus abgestorbenen Dinosauriern.",
+                "isTrue": false,
+                "category": "Wissenschaft",
+                "explanation": "Erdöl entstand hauptsächlich aus Meeresorganismen wie Plankton."
+            },
+            {
+                "statement": "Der Mount Fuji ist ein aktiver Vulkan.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Fuji in Japan ist ein aktiver Stratovulkan."
+            },
+            {
+                "statement": "Die Alpen sind das längste Gebirge der Welt.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Die Anden sind das längste Gebirge der Welt."
+            },
+            {
+                "statement": "Eisbären sind Linkshänder.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Es gibt keinen wissenschaftlichen Beleg dafür, dass Eisbären überwiegend links sind."
+            },
+            {
+                "statement": "Der Amazonas transportiert mehr Wasser als jeder andere Fluss.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Amazonas ist der wasserreichste Fluss der Welt."
+            },
+            {
+                "statement": "Der höchste Wasserfall Europas ist in Norwegen.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Vinnufossen in Norwegen ist einer der höchsten Wasserfälle Europas."
+            },
+            {
+                "statement": "Alle Pilze sind Pflanzen.",
+                "isTrue": false,
+                "category": "Natur",
+                "explanation": "Pilze bilden ein eigenes Reich und sind keine Pflanzen."
+            },
+            {
+                "statement": "Die ISS ist größer als ein Fußballfeld.",
+                "isTrue": true,
+                "category": "Wissenschaft",
+                "explanation": "Die ISS hat eine Spannweite von über 100 Metern."
+            },
+            {
+                "statement": "Der Tanganjikasee ist der tiefste See Afrikas.",
+                "isTrue": true,
+                "category": "Geografie",
+                "explanation": "Der Tanganjikasee ist über 1.400 Meter tief."
+            },
+            {
+                "statement": "Der Himalaya liegt in Südamerika.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Der Himalaya liegt in Asien."
+            },
+            {
+                "statement": "Strauße legen Eier.",
+                "isTrue": true,
+                "category": "Natur",
+                "explanation": "Strauße sind Vögel und legen große Eier."
+            },
+            {
+                "statement": "Der Mount Everest war früher ein Meeresboden.",
+                "isTrue": true,
+                "category": "Geologie",
+                "explanation": "Fossile Meeresbewohner in Gesteinen belegen, dass die Region einst Meeresboden war."
+            },
+            {
+                "statement": "Alle Kontinente liegen vollständig auf der Nordhalbkugel.",
+                "isTrue": false,
+                "category": "Geografie",
+                "explanation": "Südamerika, Afrika, Australien und die Antarktis liegen teilweise oder ganz südlich des Äquators."
+            }
+        ]
+    }
+}

@@ -1,0 +1,243 @@
+{
+  "murdermystery": {
+    "title": "Murder Mystery (Black Stories)",
+    "description": "Eine Person liest einen rätselhaften Satz vor. Nur sie kann in der App die vollständige Lösung sehen – die Runde stellt Ja/Nein‑Fragen und versucht, die Geschichte zu rekonstruieren.",
+    "cases": [
+      {
+        "prompt": "Ein Mann sieht in den Spiegel eines Schminktisches. Daraufhin nimmt er seine Waffe und erschießt sich. Auf dem Boden liegen Sägespäne. Was ist passiert?",
+        "solution": "Der Mann arbeitete als Liliputaner beim Zirkus und verdient sein Geld als 'kleinster Mann der Welt'. Irgendjemand hat die Beine des Schminktisches abgesägt und als er nun in den Spiegelschrank schaute, meinte er, er wäre gewachsen und würde nun damit seinen Job verlieren."
+      },
+      {
+        "prompt": "Ein Mann kommt in ein Lokal, bestellt ein Albatross-Schnitzel, isst nur einen Bissen davon und bezahlt es. Danach verlässt er das Lokal und erschießt sich direkt auf dem Parkplatz in seinem Auto.",
+        "solution": "Der Mann erlebte vor Jahren auch einen Schiffbruch. Mitten auf See sank der Kutter, er konnte sich mit wenigen weiteren Überlebenden auf eine einsame Insel retten. Glücklicherweise gab es Trinkwasser in einem See, aber die Vegetation war spärlich, kaum Tiere zu jagen und dementsprechend hatten alle großen Hunger. Der 1. Offizier entdeckte auf einem Erkundungsgang eine Steilküste mit Albatrossen (Steilhangbrüter). Zurück im Camp bat er einen Anderen ihn zu begleiten, da es sehr schwierig war, die Vögel an der Steilküste zu fangen. Er kam alleine zurück, sein Kamerad sei beim Versuch die Vögel zu erlegen, in die Tiefe gestürzt. Fleisch hatte er trotzdem dabei und es schmeckte vorzüglich. Bei der nächsten Gelegenheit das gleiche Spiel: er geht mit einem Kameraden los, kommt alleine wieder – der Andere ist wieder abgestürzt… Fleisch vorhanden – lecker… irgendwann wurden sie gerettet… Der Mann aus dem Lokal erinnerte sich an den vorzüglichen Geschmack des Fleisches und wollte dies wiedereinmal genießen… was ihm serviert wurde, war tatsächlich ein Albatross-Schnitzel. Nur da wurde ihm bewußt, dass er während seiner Zeit auf der Insel mehrfach Menschenfleisch, seine Kameraden, gegessen haben muss… mit diesem Wissen konnte er nicht mehr leben…"
+      },
+      {
+        "prompt": "Ein Mann kommt in ein Lokal, er bestellt eine Haifischsuppe. Er kostet nur ein einziges mal, steht auf geht in die Küche und töten den Koch.",
+        "solution": "Ein paar Jahre zuvor, gab es ein Schiffsunglück: ein kleineres Passagierschiff lief auf ein Riff auf. (ein defektes Funkgerät verhinderte Notrufe). Alle Menschen auf dem Schiff waren für Monate gefangen, zu trinken gab es genug, und auch genug Gas für den Herd war an Board, aber das Essen ging ihnen aus, Der Koch behauptet er hätte eine sichere Methode um Haifische zu fangen, und über die zeit hinweg verschwanden immer wieder Passagiere. Nach einiger Zeit wurden sie gerettet. Der Mann der ins Lokal ging war damals mit seiner Frau an Bord des Schiffes, Sie verschwand ebenso. Als der Mann ins Lokal ging, er wusste das der Koch des Schiffes nun dort arbeitete, bestellt er sich eine Haifischsuppe, wie er sie so oft auf dem Schiff gegessen hatte. Als er die Suppe kostete und feststellte das er noch nie zuvor eine etwas derartiges geschmeckt hatte, wusste er das er damals unter anderem seine eigene Frau gegessen hatte. Er stand auf ging…"
+      }
+      ,
+      {
+        "prompt": "Ein Mann liegt tot in einem Feld, neben ihm liegt ein Paket. Was ist passiert?",
+        "solution": "Der Mann sprang mit einem Fallschirm aus einem Flugzeug. Das 'Paket' ist sein Fallschirm, der sich nicht geöffnet hat."
+      },
+      {
+        "prompt": "Ein Mann betritt eine Bar und verlangt ein Glas Wasser. Der Barkeeper zieht plötzlich eine Waffe und richtet sie auf ihn. Der Mann bedankt sich und verlässt erleichtert die Bar. Was ist passiert?",
+        "solution": "Der Mann hatte Schluckauf. Der Barkeeper wollte ihn durch den Schreck heilen, was auch gelang."
+      },
+       {
+        "prompt": "Ein nackter Mann wird tot in der Wüste gefunden. Alles was man bei ihm findet, ist ein halbes Streichholz.",
+        "solution": "Ein Heißluftballon drohte abzustürzen, nachdem aller Ballast abgeworfen wurde (auch die Kleidung) waren sie immer noch zu schwer und sanken zu schnell. Ein Mitreisender musste sich für das Überleben der anderen opfern. Sie zogen Streichhölzer, um auszulosen, wer aus dem Ballon abspringen musste…"
+      },
+       {
+        "prompt": "In einem noblen Fünf-Sterne-Restaurant saßen ca. 80 Gäste, die an einem Vier-Gänge-Dinner teilnahmen. Alles war vorzüglich und dennoch mussten sich ca. 4 Std. danach 70 Gäste übergeben. Was war geschehen?",
+        "solution": "Alle Gäste des Restaurants befinden sich auf einer Kreuzfahrt durch die Malediven. Was so schön mit dem Kaptains-Dinner begann (das Essen war vorzüglich), endete später in der Nacht in Windstärke 9, wodurch das Schiff so ins Schwanken kam, dass der Großteil der Gäste seekrank wurde und dementsprechend viele sich der Überlkeit hingaben."
+      },
+      {
+        "prompt": "Zwei Männer starben gleichzeitig, nur weil sie ein wenig frische Luft schnuppern wollten.",
+        "solution": "Herr Schmidt und Herr Müller waren beide in ihrem Auto unterwegs. Es war ein schwüler, aber sehr nebeliger Abend (in dieser Gegend kommt dies häufiger vor). Die Luft in ihren Autos war nicht zum aushalten und somit öffneten beide das Fenster auf der Fahrerseite, steckten ihre Köpfe hinaus ins Freie, um Sauerstoff zu tanken. Leider fuhren sie genau in diesem Moment aneinandervorüber, so dass ihre Köpfe aneinanderstießen und sie durch die schwere Kopfverletzung starben."
+      },
+       {
+        "prompt": "Eine Frau wird in der Nacht durch das Telefonklingeln geweckt. Sie greitft zum Hörer und stirbt, bevor sie sich mit ihrem Namen meldet. Hätte sie das Telefon ignoriert, würde sie noch leben.",
+        "solution": "Die Frau lebte in ständiger Angst in der Nacht überfallen zu werden. Ausdiesem Grunde lag ein immer geladener Revolver auf ihrem Nachttischchen. In dieser Nacht, sie hatte ausgiebig getrunken und gefeiert, griff sie aus Versehen zum Revolver, statt zum Telefonhörer. Ein Schuss löste sich und sie war nicht mehr in der Lage ihren Namen auszusprechen."
+      },
+       {
+        "prompt": "Ein Mann fällt 50 m in die Tiefe. Er überlebt den Fall, stirbt aber 5 Std. später.",
+        "solution": "Der Mann arbeitete als Mechaniker auf einer Bohrinsel. Bei Reparaturarbeiten stürzte er ins Meer unter ihm. Den Sturz selber hat er überlebt, aber leider gab es keine Möglichkeit an den Säulen der Plattform hinaufzusteigen. Somit starb er vor Entkräftung und Unterkühlung im Ozean."
+      },
+      {
+        "prompt": "Eine Frau sprang ins Wasser, um Schwimmen zu gehen. Da hörte sie ein Geräusch. Einige Stunden später ertrank sie.",
+        "solution": "Die Schwimmerin war blind. Jeden Abend schwamm sie 20 min. in einem großen See. Um den Weg wieder zurückzufinden, stellte sie einen Wecker an Land auf, der nach 10 min den Weg zum Ufer wies. Am Todesabend fuhr in einiger Entferung ein Boot vorbei. An Bord hatte jemand den gleichen Wecker, wie die Schwimmerin. Als dieser dann klingelte, folgte sie dem Boot und schwamm immer weiter hinaus. Nach wenigen Stunden hatte sie keine Kraft mehr und ertrank."
+      },
+      {
+        "prompt": "Die Polizei fand eine Tote in ihrem Auto. Sie wurde durch einen Kopfschuss getötet. Das Auto war von innen verschlossen und die Spurensicherung fand keine Einschusslöcher im Wagen.",
+        "solution": "Die Frau fuhr ein Cabrio. Sie fuhr mit offenen Dach durch die Gegend, als die Kugel sie traf. Dementsprechend gab es keine Einschusslöcher."
+      },
+      {
+        "prompt": "Peter musste sterben, da er klüger wurde. Wäre er weiterhin dumm geblieben, könnte er noch leben.",
+        "solution": "Peter saß wegen Mordes in Virginia (USA) im Todestrakt. Die dort geltenen Gesetze besagen allerdings, dass Menschen mit einem geringen IQ nicht hingerichtet werden durften. Peter hatte einen IQ von 57. Im Laufe der langjährigen Haftstrafe las er viel und beschäftigte sich mit philosophischen Themen. So stieg sein IQ allerdings auf über 70 und so wurde das Urteil dann vollstreckt."
+      },
+       {
+        "prompt": "Man fand zwei Tote, beide mit einem Loch im Kopf, auf dem Boden liegend. Einer der beiden hielt einen Revolver in der Hand. Beim näheren Hinsehen fand man aber nur ein Geschoss.",
+        "solution": "Die beiden Toten waren Polarforscher und man fand sie in einer Höhle in der Antarktis. Sie sind in Streit geraten, bei dem sich schließlich ein Schuss löste, der einen der beiden in den Kopf traf. Gleichzeitig löste der Knall einen großen Eiszapfen von der Decke, der den Schädel des anderen durchborte."
+      },
+      {
+        "prompt": "In einem Raum sitzen zwei Tote. Auf dem Tisch liegen Streichhölzer und eine Pistole. Einer der beiden hat ein Loch im Kopf.",
+        "solution": "Du bist ein Taucher und siehst durch ein Bullauge eines gesunkenen U-Bootes. In der Pistole war nur ein Schuss. So knobelten die beiden Männer darum, wer sich erschießen durfte und wer den grausamen Tod durch Ersticken erleiden musste"
+      },
+      {
+        "prompt": "",
+        "solution": ""
+      },
+      {
+        "prompt": "Ein Mann liegt tot in einer Telefonzelle. Die Scheibe ist zerbrochen, es liegen viele Münzen am Boden. Was ist passiert?",
+        "solution": "Der Mann war Taucher und wollte an einem Wettbewerb teilnehmen, bei dem es darum ging, wie tief man tauchen kann. Nach dem Tauchgang wollte er telefonisch seine Tiefe durchgeben, aber er konnte sich nicht mehr erinnern. Er warf immer wieder Münzen ein, um mehr Zeit zu haben, zählte dabei aber laut die Tiefe. Schließlich wurde er so aufgeregt, dass er die Scheibe einschlug."
+      },
+      {
+        "prompt": "",
+        "solution": ""
+      },
+      {
+        "prompt": "Ein kleines Mädchen wird tot in einem Park gefunden. Neben ihr liegt ein geplatzter roter Luftballon. Was ist passiert?",
+        "solution": "Im Ballon war Giftgas. Der Täter gab ihn ihr, sie spielte damit, bis er platzte – und sie erstickte."
+      },
+      {
+        "prompt": "Ein Mann ruft ein Taxi. Wenige Minuten später wird er erschlagen aufgefunden – aber das bestellte Taxi tauchte nie auf.",
+        "solution": "Der Täter gab sich als Taxifahrer aus. Das Opfer stieg ein, erkannte den Betrug zu spät und wurde unterwegs getötet."
+      },
+      {
+        "prompt": "Ein Mann liegt erschossen in einem Park. In seiner Hand: eine brennende Zigarette. Niemand hat den Schuss gehört.",
+        "solution": "Der Täter benutzte eine Waffe mit Schalldämpfer und steckte dem Opfer nachträglich eine Zigarette an, um den Todeszeitpunkt zu verschleiern."
+      },
+      {
+        "prompt": "Eine Tänzerin wird tot in ihrem Garderobenraum gefunden. Sie trägt nur einen Schuh.",
+        "solution": "Der Täter wusste, dass sie den zweiten Schuh immer in ihrem Spind aufbewahrte, und legte dort Gift hinein. Sie starb, als sie ihn anzog."
+      },
+      {
+        "prompt": "Ein Mann fällt aus dem 10. Stock und stirbt. Als die Polizei ankommt, steht das Fenster weit offen – aber niemand in der Wohnung.",
+        "solution": "Der Mann war Fensterputzer. Der Täter schnitt heimlich sein Sicherungsseil durch, sodass er beim Putzen stürzte."
+      },
+      {
+        "prompt": "Eine Frau wird in ihrem Haus tot aufgefunden. Der Hund sitzt neben der Leiche – still, ohne zu bellen.",
+        "solution": "Der Täter war ein enger Bekannter. Der Hund kannte ihn und schlug deshalb nicht an."
+      },
+      {
+        "prompt": "Auf einem Friedhof findet man eine tote Frau, in der Hand eine schwarze Rose.",
+        "solution": "Der Täter war ein Florist, der Rosen schwarz färbte. In die Rose hatte er Gift injiziert. Beim Riechen nahm die Frau eine tödliche Dosis auf."
+      },
+      {
+        "prompt": "In einer Wohnung findet man einen Mann erhängt. Neben ihm liegt ein Papagei, tot im Käfig.",
+        "solution": "Der Papagei hatte den Mord mitgehört und konnte den Täter nachahmen. Um entdeckt zu werden, brachte der Täter zuerst den Vogel um und täuschte dann einen Selbstmord vor."
+      },
+      {
+        "prompt": "Ein Autofahrer wird tot in seinem Wagen gefunden. Auf dem Beifahrersitz: ein Rucksack, aber keine Person.",
+        "solution": "Er nahm einen Anhalter mit, der ihn unterwegs ermordete und floh. Den Rucksack ließ er absichtlich zurück, um die Ermittler zu verwirren."
+      },
+      {
+        "prompt": "Ein Pianist wird mit durchgeschnittener Kehle aufgefunden. Auf dem Klavier: ein Notenblatt mit einer unvollendeten Melodie.",
+        "solution": "Der Täter stahl seine Komposition. Um die Urheberschaft zu vertuschen, tötete er den Pianisten – das Notenblatt war der letzte Beweis."
+      }
+    ,
+      {
+        "prompt": "Ein Mann liegt tot in seiner Küche. Neben ihm eine Pfütze und Glasscherben. Was ist passiert?",
+        "solution": "Er stand auf einem Stuhl, um eine Glühbirne zu wechseln. Dabei fiel er, stürzte durch ein Glasregal und verletzte sich tödlich."
+      },
+      {
+        "prompt": "Eine Frau sitzt tot in einem Zugabteil. Die Türen waren von innen verschlossen, niemand sah etwas.",
+        "solution": "Sie wurde mit einer vergifteten Nadel in ihrem Sitz getötet. Der Täter platzierte sie vorher so, dass sie beim Hinsetzen stach."
+      },
+      {
+        "prompt": "Ein Mann wird auf einer Brücke tot aufgefunden. In seiner Tasche steckt ein Lottoschein.",
+        "solution": "Er hatte im Lotto gewonnen, prahlte zu laut damit. Ein Bekannter erschlug ihn und nahm das Geld – der Schein blieb unbemerkt in der Tasche."
+      },
+      {
+        "prompt": "Eine Frau stirbt, nachdem sie ein Foto betrachtet.",
+        "solution": "Auf dem Foto erkannte sie den Mann wieder, den sie einst hatte entkommen lassen. Er stand hinter ihr und ermordete sie sofort."
+      },
+      {
+        "prompt": "Ein Geschäftsmann liegt tot in seinem Büro. Auf dem Schreibtisch liegen zwei Gläser, eins halb leer.",
+        "solution": "Er wollte mit einem Partner anstoßen. Das vergiftete Glas hatte er selbst genommen, da der Partner zuvor unauffällig die Gläser vertauschte."
+      },
+      {
+        "prompt": "Ein Mann wird erfroren in einem Auto gefunden, obwohl die Heizung funktioniert.",
+        "solution": "Der Täter hatte das Auto manipuliert: Die Heizung blies kalte Luft, während die Anzeige warm anzeigte. Das Opfer bemerkte es zu spät."
+      },
+      {
+        "prompt": "Eine Frau liegt tot in einer Badewanne voller Wasser. Ein Föhn liegt neben der Wanne, aber er ist trocken.",
+        "solution": "Sie hatte eine Herzattacke. Der Täter legte den Föhn daneben, um es wie einen Unfall wirken zu lassen."
+      },
+      {
+        "prompt": "Ein berühmter Sänger wird während eines Konzerts tot auf der Bühne gefunden.",
+        "solution": "Sein Mikrofon war präpariert. Es leitete Strom, als er es berührte."
+      },
+      {
+        "prompt": "Ein Fischer wird tot am Ufer gefunden. Neben ihm ein kaputtes Radio.",
+        "solution": "Das Radio war eine improvisierte Stromquelle für illegalen Fischfang. Er berührte das nasse Gerät und erlitt einen tödlichen Stromschlag."
+      },
+      {
+        "prompt": "Eine Frau wird in einem Hotelzimmer tot aufgefunden. Der Zimmerservice hatte nichts Verdächtiges bemerkt.",
+        "solution": "Das Gift war in der Klimaanlage versteckt. Der Täter wusste, dass sie die Temperatur immer stark herunterstellte und das Gas dann freigesetzt wurde."
+      }
+    ,
+      {
+        "prompt": "Ein Mann wird tot in einem Kino gefunden. Der Film lief noch, niemand bemerkte etwas.",
+        "solution": "Der Täter hatte das Getränk des Opfers vergiftet. Durch das Dunkel und den Lärm des Films merkte niemand den Todeskampf."
+      },
+      {
+        "prompt": "Eine Frau wird erschossen in ihrer Küche gefunden. Die Nachbarn hörten keinen Schuss.",
+        "solution": "Die Küche war laut, sie hatte die Dunstabzugshaube und das Radio an. Der Schuss fiel unbemerkt."
+      },
+      {
+        "prompt": "Ein Geschäftsmann wird mit gebrochenem Genick in einem Fahrstuhl gefunden.",
+        "solution": "Der Täter stoppte den Fahrstuhl abrupt zwischen Etagen. Durch den Ruck brach sich das Opfer das Genick."
+      },
+      {
+        "prompt": "Eine junge Frau liegt tot auf einem Spielplatz, um sie herum keine Spuren.",
+        "solution": "Sie wurde auf einer Schaukel vergiftet. Das Gift war am Sitz angebracht."
+      },
+      {
+        "prompt": "Ein Mann stirbt in einem Hotelzimmer, obwohl alle Fenster und Türen verschlossen waren.",
+        "solution": "Der Täter hatte das Opfer vor Stunden vergiftet. Es starb erst, als niemand mehr im Zimmer war."
+      },
+      {
+        "prompt": "Ein Professor wird in seiner Bibliothek erschlagen, aufgeschlagen liegt ein Lexikon.",
+        "solution": "Der Täter wusste, dass er immer das Lexikon zum Nachschlagen nutzte. Er versteckte eine schwere Waffe darin und schlug zu."
+      },
+      {
+        "prompt": "Ein Fischer wird tot im Hafen gefunden, neben ihm ein Netz voller Fische.",
+        "solution": "Er hatte Sprengstoff benutzt, um Fische zu fangen. Der Sprengsatz explodierte zu früh."
+      },
+      {
+        "prompt": "Eine Frau wird erhängt in einem Theater gefunden, während einer Probe.",
+        "solution": "Das Seil für die Kulisse war manipuliert. Als sie es ziehen wollte, verfing es sich um ihren Hals."
+      },
+      {
+        "prompt": "Ein Mann wird auf einem Hochhausdach tot aufgefunden. Neben ihm liegt ein Fernglas.",
+        "solution": "Er war Spanner. Der Täter lockte ihn aufs Dach und stieß ihn hinunter."
+      },
+      {
+        "prompt": "Eine Frau liegt erstochen im Wald, aber es gibt keine Fußspuren außer ihren eigenen.",
+        "solution": "Der Täter wartete schon im Wald, tarnte seine Spuren durch Laub und kletterte nach der Tat auf einen Baum."
+      },
+      {
+        "prompt": "Ein Mann stirbt an einer Überdosis, obwohl er nie Drogen nahm.",
+        "solution": "Der Täter ersetzte seine Herzmedikamente durch eine tödliche Dosis Morphium."
+      },
+      {
+        "prompt": "Ein Politiker bricht bei einer Rede tot zusammen.",
+        "solution": "Das Wasser im Glas auf dem Rednerpult war vergiftet."
+      },
+      {
+        "prompt": "Ein Mann wird erschlagen in seiner Werkstatt gefunden. Überall liegt Sägemehl.",
+        "solution": "Der Täter wusste, dass das Opfer beim Sägen die Schutzbrille abnimmt. Er schlug genau in diesem Moment zu."
+      },
+      {
+        "prompt": "Eine Frau wird im Schwimmbad ertränkt. Niemand bemerkte es.",
+        "solution": "Der Täter drückte sie unter Wasser im überfüllten Becken, sodass es wie ein Badeunfall wirkte."
+      },
+      {
+        "prompt": "Ein Mann wird in einem brennenden Auto gefunden. Doch er starb schon vorher.",
+        "solution": "Der Täter erschlug ihn und legte ihn ins Auto, um es wie einen Unfall aussehen zu lassen."
+      },
+      {
+        "prompt": "Ein Musiker wird tot in seiner Garderobe gefunden, neben ihm eine zerbrochene Geige.",
+        "solution": "Der Täter hatte Gift am Kinnhalter der Geige angebracht."
+      },
+      {
+        "prompt": "Ein Wanderer wird tot am Fuß einer Klippe gefunden. Niemand sah den Sturz.",
+        "solution": "Er wurde oben betäubt und hinuntergestoßen."
+      },
+      {
+        "prompt": "Eine Frau liegt tot in ihrer Küche, auf dem Herd kocht ein Topf Suppe.",
+        "solution": "Der Täter hatte das Gift in die Suppe getan. Sie kostete davon und starb sofort."
+      },
+      {
+        "prompt": "Ein Mann wird erschlagen in einem Park gefunden. Neben ihm eine Zeitung.",
+        "solution": "Der Täter hatte die Waffe in die Zeitung eingerollt und schlug unbemerkt zu."
+      },
+      {
+        "prompt": "Ein Jäger wird tot in einem Waldstück gefunden. Neben ihm sein Gewehr, unbenutzt.",
+        "solution": "Er wurde von einem Rivalen mit einem Jagdpfeil erschossen, um es wie einen Unfall aussehen zu lassen."
+      }
+    ]
+  }
+}
